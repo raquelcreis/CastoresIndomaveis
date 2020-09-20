@@ -1,0 +1,10 @@
+North Central Region
+Counties: Adams, Florence, Forest, Green Lake, Iron, Langlade, Lincoln, Marathon, Marquette, Menominee, Oneida, Portage, Price, Shawano, Vilas, Waupaca, Waushara and Wood counties.
+Northeast Region
+Counties: Brown, Calumet, Door, Fond du Lac, Kewaunee, Manitowoc, Marinette, Oconto, Outagamie, Sheboygan and Winnebago counties.
+Northwest Region
+Counties: Ashland, Barron, Bayfield, Buffalo, Burnett, Chippewa, Clark, Douglas, Dunn, Eau Claire, Jackson, Pepin, Pierce, Polk, Rusk, Sawyer, St. Croix, Taylor, Trempealeau and Washburn counties.
+Southeast Region
+Counties: Kenosha, Milwaukee, Ozaukee, Racine, Walworth, Washington and Waukesha counties.
+Southwest Region
+Counties: Columbia, Crawford, Dane, Dodge, Grant, Green, Iowa, Jefferson, Juneau, La Crosse, Lafayette, Monroe, Richland, Rock, Sauk and Vernon counties.
